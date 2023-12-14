@@ -1,0 +1,2 @@
+# paris-server-datapacks
+silly
